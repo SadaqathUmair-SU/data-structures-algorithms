@@ -60,7 +60,7 @@ public void reorderList(ListNode head){
       node = temp;
       
     }
-    
+    return prev;
   }
   
 }
