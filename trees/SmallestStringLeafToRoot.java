@@ -1,3 +1,6 @@
+//Always think of starting with preorder traversal for root to leaf problems
+//use compareTo to check for lexicographical less string
+//use curr string as a parameter in recersive funtion to keep a track of curr string at each recursive call
 
 
 class SmallestStringLeafToRoot{
