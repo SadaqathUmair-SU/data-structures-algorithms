@@ -1,2 +1,2 @@
 ## Trees
-1. Most of the time when dealing with root to leaf problems on Tress, **think of preorder traversal**
+1. Most of the time when dealing with root to leaf problems on Trees, **think of preorder traversal**
